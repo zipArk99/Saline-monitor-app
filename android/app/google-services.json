@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465537263229",
+    "project_id": "saline-monitor-system",
+    "storage_bucket": "saline-monitor-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465537263229:android:f06ceb0bd62df54cdd3314",
+        "android_client_info": {
+          "package_name": "com.example.saline_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465537263229-cpau3c2s0ncq1hb66io2233n96ke6f0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKChZBSyfRWPukRCR0tCSRIysk7jzXx5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465537263229-cpau3c2s0ncq1hb66io2233n96ke6f0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

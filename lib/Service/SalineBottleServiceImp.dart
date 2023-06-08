@@ -12,7 +12,7 @@ class SalinBottleServiceImp implements SalinBottleServiceInterface{
     SalineBottle(
       salineBottleId: "20",
       bedNumber: "150",
-      salinLevel: 21.26,
+      salinLevel: 300,
     ),
     SalineBottle(
       salineBottleId: "40",
